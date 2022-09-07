@@ -20,9 +20,9 @@
 
 1. Main Page
 
-![screenshot](images/01.png)
+![screenshot](images/01-new.png)
 
 2. Detail Page
 
-![screenshot](images/02.png)
+![screenshot](images/02-new.png)
 
